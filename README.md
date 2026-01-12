@@ -4,7 +4,7 @@ Ola sou Victor Caetano da Conceição tenho 21 anos moro no Espirito Santo faço
 
 
 - Foco - desenvolver tanto front-end e back-end visando criar sistemas completos
-- Grow - tenho buscado aprender React (next e expo), flutter e jwt(web token) em varias linguagens(Java OK), typescript
+- Grow - tenho buscado aprender React (next e expo), flutter e jwt(web token) em varias linguagens(Java OK), typescript, comunicação avançada (atualização proxima do tempo real)
 
 ## Faculdade
 Onde aprendi gestão de projetos com metodologia agil (kanban e scrum), estrutura de dados, SQL Banco de Dados(postgresSQLm Mysql,sqllite(para coisas pequenas))e Java eo framework Spring Boot 
