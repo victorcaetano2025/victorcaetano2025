@@ -7,7 +7,7 @@ Ola sou Victor Caetano da Conceição tenho 21 anos moro no Espirito Santo faço
 - Grow - tenho buscado aprender React (next e expo), flutter e jwt(web token) em varias linguagens(Java OK), typescript, comunicação avançada (atualização proxima do tempo real)
 
 ## Faculdade
-Onde aprendi gestão de projetos com metodologia agil (kanban e scrum), estrutura de dados, SQL Banco de Dados(postgresSQLm Mysql,sqllite(para coisas pequenas))e Java eo framework Spring Boot 
+Onde aprendi gestão de projetos com metodologia agil (kanban e scrum), estrutura de dados, SQL Banco de Dados(postgresSql, MySql, SqLite(para coisas pequenas))e Java eo framework Spring Boot 
 
 A cada periodo tive grande evolução de acordo com os projetos para o Projeto integrador 
 - Mit app inventor (1ºperiodo e 2ºperiodo)  
